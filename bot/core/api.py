@@ -6,7 +6,7 @@ from typing import List, Union, Dict, Any
 from app.utils.localization import localization
 from app.utils.logger import error
 
-
+ 
 class Config:
     def __init__(self):
         self.parser = configparser.ConfigParser()
