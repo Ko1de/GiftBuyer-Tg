@@ -5,7 +5,8 @@
 
 # Preview🖼
 
-![image](https://github.com/user-attachments/assets/dd0e54a7-b449-4a87-9a1b-5fa47a39366b)
+<img width="636" height="321" alt="image" src="https://github.com/user-attachments/assets/c9c29462-523c-4a4f-a854-08ea2bc97a2c" />
+
 
 
 
@@ -13,7 +14,7 @@
 - **Fully automatic scans for new gifts**
 - **Fully customizable settings**
 - **Telegram bot integration available**
-- **Incredible fast gift purchase(100+ gifts per second)**
+- **Incredible fast gift purchase(5+ gifts per second)**
 - **Continuously searches for gifts while the script is online.**
 - **(Check Tonnel gift prices right inside the script.**
 
@@ -27,16 +28,16 @@ And more.... *in future*
 
 # Installation📩
 ```shell
-git clone https://github.com/LLMotion/Gift-Buyer-Tg
-cd Gift-Buyer-Tg
+git clone https://github.com/Ko1de/GiftBuyer-Tg
+cd GiftBuyer-Tg
 run.bat
 ```
 
 **OR**
 
 ```shell
-git clone https://github.com/LLMotion/Gift-Buyer-Tg
-cd Gift-Buyer-Tg
+git clone https://github.com/Ko1de/GiftBuyer-Tg
+cd GiftBuyer-Tg
 pip install -r requirements.txt
 python main.py
 ```
