@@ -1,4 +1,4 @@
-aiogram
+aiogram 
 asyncio==3.4.3
 websockets==12.0
 annotated-types==0.7.0
